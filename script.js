@@ -72,7 +72,7 @@ function resetTypewriter() {
   document.getElementById("text").innerHTML = "";
   clearInterval(intervalId);
   i = 0;
-  ucapanSurat = "Taqabbalallahu Minna Wa Minkum \n Minal Aidzin Wal Faidzin \n Mohon Maaf Lahir dan Batin🙏 \n Jangan Lupa THRnya ya \n ❤️😁";
+  ucapanSurat = "Taqabbalallahu Minna Wa Minkum \n Minal Aidzin Wal Faidzin \n Mohon Maaf Lahir dan Batin🙏 \n Jangan Lupa THRnya ya \n 🫰🏻😁";
 }
 
 function typewriter() {
